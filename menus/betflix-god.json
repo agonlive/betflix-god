@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle betflix-god",
+        "command": "betflix-god:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "betflix-god",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "betflix-god:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
