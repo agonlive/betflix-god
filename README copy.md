@@ -1,2 +1,0 @@
-# betflix-god
-betflix-god 
