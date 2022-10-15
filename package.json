@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "betflix-god:toggle"
   },
-  "repository": "https://github.com/agonlive/betflix-god",
+  "repository": "https://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@github.com/agonlive/betflix-god",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
